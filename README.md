@@ -8,3 +8,5 @@ Game systems
 - waves in increasing difficulty
 - multiple enemy types with unique behaviors
 - game loop with attractor mode and play mode that switches when player loses all lives
+
+![centi screenshot](https://user-images.githubusercontent.com/8291642/161451598-919b9c10-f093-43f5-8388-422e2a552551.png)
